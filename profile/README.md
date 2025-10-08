@@ -6,24 +6,26 @@
 
 ## Overview
 
-The **MIND Data Standard** is an open framework for describing, utilizing, and exchanging research data across the sciences of mind and intelligence.  
-It provides a shared language that connects experimental, computational, and interactive approaches — supporting both real-time and offline use.
+The **MIND Data Standard** is an open framework for describing, utilizing, and exchanging research data across the sciences of mind and intelligence. It provides a shared language that connects experimental, computational, and interactive approaches — supporting both real-time and offline use.
 
-MIND draws inspiration from open initiatives that have reshaped scientific and technical collaboration.  
-Standards like the **Brain Imaging Data Structure ([BIDS](https://bids.neuroimaging.io/))** and **Neurodata Without Borders ([NWB](https://www.nwb.org/))** have made it possible for researchers to share and compare data with unprecedented transparency, while **Lab Streaming Layer ([LSL](https://github.com/sccn/labstreaminglayer))** and the **OpenXR standard ([OpenXR](https://www.khronos.org/openxr/))** demonstrate the power of interoperability in breaking down technical barriers in real time.  
-MIND brings these worlds together — combining reproducible data practices and real-time systems — within a framework built to evolve alongside emerging AI standards, exemplified by initiatives like [**neuro-galaxy**](https://github.com/neuro-galaxy).
+#### MIND draws inspiration from open initiatives that have reshaped scientific and technical collaboration.
+
+> Standards like the **Brain Imaging Data Structure ([BIDS](https://bids.neuroimaging.io/))** and **Neurodata Without Borders ([NWB](https://www.nwb.org/))** have made it possible for researchers to share and compare data with unprecedented transparency, while **Lab Streaming Layer ([LSL](https://github.com/sccn/labstreaminglayer))** and the **OpenXR standard ([OpenXR](https://www.khronos.org/openxr/))** demonstrate the power of interoperability in breaking down technical barriers in real time. MIND brings these worlds together — combining reproducible data practices and real-time systems — within a framework built to evolve alongside emerging AI standards, exemplified by initiatives like [**neuro-galaxy**](https://github.com/neuro-galaxy).
+
+By linking structured data, real-time interaction, and emerging AI frameworks, MIND creates a foundation for research that is both reproducible and adaptive — connecting human and artificial intelligence within a shared ecosystem.
 
 ---
 
 ## Motivation
 
-Human and artificial intelligence are increasingly interconnected.  
+#### Human and artificial intelligence are increasingly interconnected.  
+
 Advances in each domain now inform and accelerate the other, yet the systems and standards that support them remain largely siloed.  
 Neuroscience, psychology, artificial intelligence, and human–computer interaction all seek to understand the same fundamental processes — perception, learning, and behaviour — but they do so through distinct data languages and incompatible tools.
 
-**MIND** seeks to bridge this divide.  
-It provides a common representational framework where behavioural, physiological, and computational data can coexist — allowing insights, models, and methodologies to flow freely across disciplines.  
-By creating shared structure for how we describe and exchange the dynamics of minds, MIND supports collaboration across fields that have historically evolved in isolation, helping to align the study of intelligence with the systems that model it.
+#### MIND seeks to bridge this divide.  
+
+It provides a common representational framework where behavioural, physiological, and computational data can coexist — allowing insights, models, and methodologies to flow freely across disciplines. By creating shared structure for how we describe and exchange the dynamics of minds, MIND supports collaboration across fields that have historically evolved in isolation, helping to align the study of intelligence with the systems that model it.
 
 ---
 
@@ -79,9 +81,3 @@ Contributors are welcome from neuroscience, psychology, AI, XR, robotics, and da
 > [https://github.com/MIND-Data-Standard](https://github.com/MIND-Data-Standard)
 
 ---
-
-### 🧭 About (for GitHub Organisation Profile)
-
-**MIND (Multimodal Interoperable N-Dimensional Dynamics)** is an open data standard uniting behavioural science, neuroscience, and artificial intelligence.  
-It provides a shared language for representing, streaming, and analysing research data across disciplines — enabling researchers to study, model, and build minds within a common interoperable framework.  
-Inspired by foundational standards such as **BIDS**, **NWB**, **LSL**, and **OpenXR**, MIND extends their principles into real-time, multimodal, and model-integrated research — bridging observation and simulation across the sciences of mind.
